@@ -8,6 +8,7 @@ function setup() {
     video = createCapture(VIDEO);
     video.hide();
     tint_color = "";
+    canvas.center;
 }
   
 function draw() {
